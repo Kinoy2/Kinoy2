@@ -31,7 +31,7 @@ I'm a **Digital Forensics & Malware Analyst**, constantly **dissecting binaries,
 ---
 
 ### 🎵 Currently Listening To  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default)](https://open.spotify.com/user/your_spotify_id)  
+[![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/)  
 
 ---
 
@@ -39,6 +39,12 @@ I'm a **Digital Forensics & Malware Analyst**, constantly **dissecting binaries,
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A7+Music+Mixing;🎬+Motion+Graphics+Editing;🎼+Sound+Design" />
 </p>
+
+### 🕶️ Fun Facts About Me  
+🚀 I love breaking things apart to understand how they work  
+🎧 My favorite way to relax is by mixing music  
+📀 I enjoy making motion graphics & editing cinematic sequences  
+⚡ "CTRL + Z" is my best friend  
 
 ---
 
