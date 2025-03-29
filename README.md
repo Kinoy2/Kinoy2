@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Reverse+Engineering+%7C+Malware+Analysis;%F0%9F%92%AF+Cybersecurity+Enthusiast;%F0%9F%94%8D+Always+Investigating+Threats" />
 </p>
 
+
+
 ---
 
 ### 🕵️ Who is Kinoy?
@@ -27,11 +29,6 @@ I'm a **Digital Forensics & Malware Analyst**, constantly **dissecting binaries,
 - 🦠 **Polymorphic & Metamorphic Malware Behavior**  
 - 🗂️ **File System & Log Forensics**  
 - 🌐 **Internet Forensics & Browser Artifacts**  
-
----
-
-### 🎵 Currently Listening To  
-[![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://music.youtube.com/)  
 
 ---
 
