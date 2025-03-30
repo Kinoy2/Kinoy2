@@ -6,7 +6,7 @@
 
 
 
----
+
 
 ### 🕵️ Who is Kinoy?
 > "Every byte has a story, and I uncover its secrets."  
