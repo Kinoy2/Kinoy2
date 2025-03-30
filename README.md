@@ -13,7 +13,7 @@
 I'm a **Digital Forensics & Malware Analyst**, constantly **dissecting binaries, analyzing cyber threats, and tracking digital footprints**.  
 
 🔥 Passionate about **reverse engineering, malware research, and forensic investigations** to expose cyber threats.  
-🛠️ Skilled in **binary exploitation, debugging, and threat intelligence** to stay ahead in cybersecurity.  
+🛠️ Skilled in **Reverse Engineering, debugging, and threat intelligence** to stay ahead in cybersecurity.  
 
 ---
 
