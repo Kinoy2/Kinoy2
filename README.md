@@ -47,6 +47,6 @@ I'm a **Digital Forensics & Malware Analyst**, constantly **dissecting binaries,
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinoy&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinoy&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinoy2&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinoy2&theme=radical" width="400px"/>
 </p>
